@@ -1,5 +1,6 @@
 Hello! My name is Lyndsay Zemanek.
-I'm a GIS nerd who wants to get more practice coding geospatial things! And, learn any cool coding things in general.
+
+I'm interested in coding for geospatial analysis, and I try to document what I'm learning here!
 
 <!---
 lzemanek/lzemanek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
